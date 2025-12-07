@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/above-the-table/la-liga-arcana/"}
 ---
 
+
+![La Liga Arcana 1334.webp|700x467](/img/user/La%20Liga%20Arcana%201334.webp)
+
+
 # La Liga Arcana
 
 La Liga Arcana is a *secret society of magic-touched individuals* in modern Manila, dedicated to preserving the city’s hidden magical pulse—the ***Diwa Encantada***. Operating in *plain sight but unseen,* the Liga intervenes only when magical phenomena threaten to spill into the mundane world, relying on careful research, ritual, and the Habi, an ethereal weave that cloaks arcane activity from ordinary citizens.

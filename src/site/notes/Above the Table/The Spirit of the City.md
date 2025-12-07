@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/above-the-table/the-spirit-of-the-city/","tags":["gardenEntry"]}
 ---
 
+<br>
+
+![The Spirit of the City 1340.jpeg|700x467](/img/user/The%20Spirit%20of%20the%20City%201340.jpeg)
 
 # The Spirit of the City
 
