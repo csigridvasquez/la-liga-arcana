@@ -6,7 +6,7 @@
 
 ![The Spirit of the City-1765086139251.webp|700](/img/user/The%20Spirit%20of%20the%20City-1765086139251.webp)
 
-# The Spirit of the City
+# Into the Veiled City
 
 Manila hums like a living engine—jeepneys growling, high-rises blinking, rivers shifting under the heat—but beneath the noise runs something older. The city carries a heartbeat no stethoscope can catch, a thrum of memory and myth woven into its streets. Most people move through it without ever noticing, brushing past the uncanny the way commuters brush past one another on EDSA.
 
