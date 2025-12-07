@@ -11,7 +11,7 @@ A few can hear it. Fewer still can touch it.
 
 This is **low fantasy** in the **modern age**: spells half-remembered from family stories, blessings whispered over a rosary, charms tucked into wallets beside old receipts. Magic is not a system; it’s a rumor. A superstition. A spark in the corner of the eye. It hides in church shadows, in pre-colonial rites, in neon reflections on rain-slick asphalt.
 
-**La Liga Arcana** is the thin line between that hidden world and the one everyone else insists is real. They are investigators, caretakers, and sometimes reluctant warriors—ordinary citizens bound by an extraordinary calling. Their charge is the **Diwa Encantada**, the city’s secret soul, a living magic that shifts like a breeze between alleyways, trying not to be found.
+**[[Above the Table/La Liga Arcana\|La Liga Arcana]]** is the thin line between that hidden world and the one everyone else insists is real. They are investigators, caretakers, and sometimes reluctant warriors—ordinary citizens bound by an extraordinary calling. Their charge is the **Diwa Encantada**, the city’s secret soul, a living magic that shifts like a breeze between alleyways, trying not to be found.
 
 Beneath the **Habi**—the unseen weave that overlays the city—spirits walk in the shapes of the city's forces: its peace and tempers; its joy and griefs and everything in between. They stir quietly, their movements felt more than seen, slipping under the skin of everyday life. Only within that hidden layer can their intentions be read, their bargains understood, their disruptions soothed.
 
