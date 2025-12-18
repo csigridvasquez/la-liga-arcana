@@ -17,10 +17,8 @@ The Diwa Encantada is believed to *emanate from the spirit of the land itself*. 
 Throughout history, members of La Liga Arcana are *wizards and magical specialists*, often drawn from elite or educated backgrounds, and bound by a strict code of discipline, secrecy, and hierarchy. Unlike classic “heroic orders,” the Liga is *reactive and investigative*: they track supernatural disturbances tied to Manila’s mundane life, steward the Diwa, and ensure the city’s magical currents continue to flow undisturbed.
 
 <br>
-<br>
 
-## The Liga Today
----
+# The Liga Today
 
 The modern La Liga Arcana is a loose but dedicated collective of wizards and magical specialists who now come from *every imaginable background*. Early exclusivity has long dissolved; today’s members include barangay health workers, baristas, lawyers, FX drivers, public school teachers, programmers, artists, cargadores, accountants, and anyone the Diwa seems willing to resonate with. What binds them is not prestige but ***attunement***—some spark or calling that the Habi “notices.”
 
