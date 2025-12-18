@@ -33,6 +33,22 @@ body {
       font-weight: 400;
       font-size: 1.4rem;
     }
+
+          /* Italic */
+    em {
+      color: #3C4767;
+    }
+
+    /* Bold */
+    strong {
+      color: #777AA6;
+    }
+
+    /* Bold + Italic */
+    strong em,
+    em strong {
+      color: #4EA690;
+    }
   } /*content*/
   
   /* RIGHT SIDEBAR */
