@@ -1,13 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=IM+Fell+DW+Pica:ital@0;1&family=Seaweed+Script&display=swap');
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-}
+  /*font stuff*/
+    .content {
+    /* Body content */
+    font-family: 'Bitter', serif;
+    font-size: 16px;
+    line-height: 1.65;
+
+    h1 {
+     font-family: 'Seaweed Script', ital;
+     font-weight: 400; /* force override */
+     font-size: 2.4rem;
+      
+    }
+
+    h2 {
+      font-family: 'IM Fell DW Pica', ital;
+      font-weight: 700;
+      font-size: 1.9rem;
+    }
+
+     h3 {
+      font-family: 'IM Fell DW Pica', ital;
+      font-weight: 400;
+      font-size: 1.9rem;
+    }
+      
+    h4 {
+      font-family: 'Bitter', serif;
+      font-weight: 400;
+      font-size: 1.4rem;
+    }
+  } /*content*/
+  
+  /* RIGHT SIDEBAR */
+  .sidebar {
+    width: 350px !important;
+    font-size: 0.95rem;
+    max-height: calc(100vh - 6rem);
+    overflow-y: auto;
+  }
+  
+  .sidebar .file-item .title {
+    font-size: 0.95rem;
+    color: #ddd;
+    font-weight: 500;
+  }
+
+  .sidebar .file-item svg {
+    width: 18px;
+    height: 18px;
+    stroke: #aaa;
+  }
+
+  .sidebar .folder-title {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #bbb;
+  } /*left sidebar*/
+
+  
+
+  
+} /*body*/
